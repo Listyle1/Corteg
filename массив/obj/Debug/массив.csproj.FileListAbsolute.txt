@@ -1,0 +1,6 @@
+c:\users\sony\documents\visual studio 2015\Projects\массив\массив\bin\Debug\массив.exe.config
+C:\Users\SONY\Documents\Visual Studio 2015\Projects\массив\массив\bin\Debug\массив.exe
+C:\Users\SONY\Documents\Visual Studio 2015\Projects\массив\массив\bin\Debug\массив.pdb
+C:\Users\SONY\Documents\Visual Studio 2015\Projects\массив\массив\obj\Debug\массив.csprojResolveAssemblyReference.cache
+C:\Users\SONY\Documents\Visual Studio 2015\Projects\массив\массив\obj\Debug\массив.exe
+C:\Users\SONY\Documents\Visual Studio 2015\Projects\массив\массив\obj\Debug\массив.pdb
