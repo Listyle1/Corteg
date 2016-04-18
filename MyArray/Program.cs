@@ -23,6 +23,7 @@ namespace MyArray
                     min = numbers[i];
                 }
             }
+            Console.WriteLine("(Max, Min, Average)");
             return Tuple.Create<int, int, int>(max, min, summ / numbers.Length);
         }
         static void Main(string[] args)
